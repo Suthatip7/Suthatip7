@@ -8,7 +8,7 @@ I have been learning about data science and business at university for 3 years. 
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chsuthatip@hotmail.com](mailto:chsuthatip@hotmail.com)
-* 🧠  I'm learning NLP, Image Processing, Machine Learning, ChatGPT and Business Analytics
+* 🧠  I'm currently learning about NLP, image processing, machine learning, ChatGPT, and business analytics.
 * 🤝  I'm open to collaborating on a data science internship
 * ⚡  My hobbies are anime, manga, and games
 
@@ -22,7 +22,7 @@ I have been learning about data science and business at university for 3 years. 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="100" height="36" alt="Figma" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="120" height="36" alt="Figma" /></a>
 <a href="https://rapidminer.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4490278?s=200&v=4" width="36" height="36" alt="Figma" /></a>
 </p>
 
