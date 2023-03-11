@@ -11,7 +11,7 @@ I have been learning about data science and business at university for 3 years. 
 * 🧠  I'm currently learning about NLP, image processing, machine learning, ChatGPT, and business analytics.
 * 🤝  I'm open to collaborating on a data science internship
 * ⚡  My hobbies are anime, manga, and games
-* ✍  Sometimes I like to write about the knowledge I have gained and publish on Medium.
+* ✍  Sometimes I like to write about the knowledge I have gained and publish on [Medium](https://medium.com/@suthatip1760)
 
 ### Skills
 
