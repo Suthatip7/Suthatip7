@@ -10,6 +10,7 @@ I have been learning about data science and business at university for 3 years. 
 * ✉️  You can contact me at [chsuthatip@hotmail.com](mailto:chsuthatip@hotmail.com)
 * 🧠  I'm currently learning about NLP, image processing, machine learning, ChatGPT, and business analytics.
 * 🤝  I'm open to collaborating on a data science internship
+* ✍  Sometimes I like to write about the knowledge I have gained and publish on [Medium](https://medium.com/@suthatip8)
 
 ### Skills
 
@@ -29,4 +30,4 @@ I have been learning about data science and business at university for 3 years. 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/ズー#8937" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Suthatip7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suthatip-chaithep-024a4b187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@suthatip.cha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a </p>
+<p align="left"> <a href="https://discord.com/users/ズー#8937" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Suthatip7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suthatip-chaithep-024a4b187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@suthatip8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a </p>
