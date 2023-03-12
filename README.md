@@ -10,7 +10,6 @@ I have been learning about data science and business at university for 3 years. 
 * ✉️  You can contact me at [chsuthatip@hotmail.com](mailto:chsuthatip@hotmail.com)
 * 🧠  I'm currently learning about NLP, image processing, machine learning, ChatGPT, and business analytics.
 * 🤝  I'm open to collaborating on a data science internship
-* ⚡  My hobbies are anime, manga, and games
 
 ### Skills
 
