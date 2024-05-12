@@ -4,12 +4,12 @@ Hi 👋 My name is Suthatip Chaithep
 Data Science student
 --------------------
 
-I have been learning about data science and business at university for 3 years. I started learning Python and mathematical models in high school, and I have developed a passion for data science.
+I have been learning about data science and business at university for 4 years. I started learning Python and mathematical models in high school, and I have developed a passion for data science.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chsuthatip@hotmail.com](mailto:chsuthatip@hotmail.com)
-* 🧠  I'm currently interested in NLP, machine learning, ChatGPT, and business analytics.
-* 🤝  I'm open to collaborating on a data science internship
+* 🧠  I'm currently interested in NLP, machine learning, and business analytics.
+* 🤝  I'm open to collaborating on a data science Job
 * ✍  Sometimes I like to write about the knowledge I have gained and publish on [Medium](https://medium.com/@suthatip8)
 
 ### Skills
